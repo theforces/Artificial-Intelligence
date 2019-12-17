@@ -1,0 +1,3 @@
+2-C
+Baza de date: Wine
+Clasificator: NN
